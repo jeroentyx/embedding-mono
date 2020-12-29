@@ -2,14 +2,15 @@
 #include <mono\jit\jit.h>
 #include <mono\metadata\assembly.h>
 
-
-
-void PrintMethod(MonoString* string)
+struct Printer
 {
-	char* cppString = mono_string_to_utf8(string);
-	std::cout << cppString;
-	mono_free(cppString);
-}
+	static void PrintMethod(MonoString* string)
+	{
+		char* cppString = mono_string_to_utf8(string);
+		std::cout << cppString;
+		mono_free(cppString);
+	}
+};
 
 int main()
 {
@@ -23,7 +24,7 @@ int main()
 	}
 
 	//Set up internal calls
-	mono_add_internal_call("CSharpCode.Class1::PrintMethod", &PrintMethod);
+	mono_add_internal_call("CSharpCode.Class1::PrintMethod", &Printer::PrintMethod);
 
 	int argc = 1;
 	char* argv[1] = { (char*)"CSharp" };

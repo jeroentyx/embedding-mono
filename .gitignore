@@ -1,2 +1,26 @@
 
 .vs/Mono/v16/Browse.VC.opendb
+.vs/Mono/v16/Browse.VC.db
+.vs/Mono/v16/Browse.VC.db-shm
+.vs/Mono/v16/Solution.VC.db
+.vs/Mono/v16/Solution.VC.db-shm
+.vs/Mono/v16/Solution.VC.db-wal
+*.db
+*.db
+*.db
+*.db-shm
+.vs/Mono/v16/.suo
+.vs/Mono/v16/Browse.VC.db
+.vs/Mono/v16/Browse.VC.db-shm
+.vs/Mono/v16/Solution.VC.db
+.vs/Mono/v16/Solution.VC.db-shm
+.vs/Mono/v16/Solution.VC.db-wal
+x64/Debug/main.obj
+x64/Debug/Mono.exe
+x64/Debug/Mono.ilk
+x64/Debug/Mono.log
+x64/Debug/Mono.pdb
+x64/Debug/Mono.tlog/link.read.1.tlog
+x64/Debug/Mono.tlog/link.write.1.tlog
+x64/Debug/vc142.idb
+x64/Debug/vc142.pdb
