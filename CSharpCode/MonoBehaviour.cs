@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace CSharpCode
 {
     class MonoBehaviour
@@ -13,12 +14,13 @@ namespace CSharpCode
         }
         void OnStart()
         {
-            Console.WriteLine("Start");
+            Console.WriteLine("OnStart");
         }
         void Update()
         {
             Console.WriteLine("OnUpdate");
         }
+
         string Message
         {
             get
