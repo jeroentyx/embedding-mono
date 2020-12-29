@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpumZLLvmc3hGYRPhIFlBUstumMGOkVHDEDgUBdbKU1ip4mmzCJ/31QZ5UoHu/DxGp8t1INb5vubQqJ8gvHE2g==",
+  "dgSpecHash": "QQCg0xwV/9kwdQLeb+3tcsMfKqkc5gBRIAQDzYRAMSujyDszzZOtNgGXQIJKTTn8hmnTIk6gtPBf8tBhrtzzhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeroen\\source\\repos\\Mono\\CSharpCode\\CSharpCode.csproj",
+  "projectFilePath": "C:\\Users\\Jeroen\\Documents\\GitHub\\embedding-mono\\CSharpCode\\CSharpCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeroen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jeroen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

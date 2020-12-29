@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeroen\\source\\repos\\Mono\\CSharpCode\\CSharpCode.csproj",
+      "projectUniqueName": "C:\\Users\\Jeroen\\Documents\\GitHub\\embedding-mono\\CSharpCode\\CSharpCode.csproj",
       "projectName": "CSharpCode",
-      "projectPath": "C:\\Users\\Jeroen\\source\\repos\\Mono\\CSharpCode\\CSharpCode.csproj",
+      "projectPath": "C:\\Users\\Jeroen\\Documents\\GitHub\\embedding-mono\\CSharpCode\\CSharpCode.csproj",
       "packagesPath": "C:\\Users\\Jeroen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeroen\\source\\repos\\Mono\\CSharpCode\\obj\\",
+      "outputPath": "C:\\Users\\Jeroen\\Documents\\GitHub\\embedding-mono\\CSharpCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jeroen\\AppData\\Roaming\\NuGet\\NuGet.Config",

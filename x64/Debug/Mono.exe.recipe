@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Jeroen\source\repos\Mono\x64\Debug\Mono.exe</FullPath>
+      <FullPath>C:\Users\Jeroen\Documents\GitHub\embedding-mono\x64\Debug\Mono.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

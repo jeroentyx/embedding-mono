@@ -1,2 +1,5 @@
-﻿  Mono.vcxproj -> C:\Users\Jeroen\source\repos\Mono\x64\Debug\Mono.exe
+﻿          1 file(s) copied.
+  main.cpp
+  LINK : C:\Users\Jeroen\Documents\GitHub\embedding-mono\x64\Debug\Mono.exe not found or not built by the last incremental link; performing full link
+  Mono.vcxproj -> C:\Users\Jeroen\Documents\GitHub\embedding-mono\x64\Debug\Mono.exe
           1 file(s) copied.
