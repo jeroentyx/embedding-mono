@@ -24,3 +24,6 @@ x64/Debug/Mono.tlog/link.read.1.tlog
 x64/Debug/Mono.tlog/link.write.1.tlog
 x64/Debug/vc142.idb
 x64/Debug/vc142.pdb
+.vs/Mono/v16/.suo
+.vs/Mono/v16/Browse.VC.db
+*.obj

@@ -9,7 +9,7 @@ namespace CSharpCode
         static void Main(string[] args)
         {
             Console.WriteLine("This main is being called from cpp");
-            PrintMethod("Im Executing this code from CSharp!");
+            PrintMethod("Im Executing this code from CSharp!\n");
         }
     }
 }
