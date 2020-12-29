@@ -1,0 +1,2 @@
+C:\Users\Jeroen\source\repos\Mono\x64\Debug\Mono.exe
+C:\Users\Jeroen\source\repos\Mono\x64\Debug\Mono.pdb

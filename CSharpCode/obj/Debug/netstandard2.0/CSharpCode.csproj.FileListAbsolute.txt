@@ -1,0 +1,9 @@
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\bin\Debug\netstandard2.0\CSharpCode.deps.json
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\bin\Debug\netstandard2.0\CSharpCode.dll
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\bin\Debug\netstandard2.0\CSharpCode.pdb
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.csprojAssemblyReference.cache
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.AssemblyInfoInputs.cache
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.AssemblyInfo.cs
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.dll
+C:\Users\Jeroen\source\repos\Mono\CSharpCode\obj\Debug\netstandard2.0\CSharpCode.pdb
