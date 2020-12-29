@@ -1,0 +1,7 @@
+﻿          1 file(s) copied.
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mono.vcxproj -> C:\Users\Jeroen\Documents\GitHub\embedding-mono\x64\Release\Mono.exe

@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>$(SolutionDir)include\mono-2.0;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)Mono\include\mono-2.0;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)Mono\lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup>
